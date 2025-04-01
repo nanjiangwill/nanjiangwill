@@ -36,13 +36,14 @@ I'm a researcher in NLP and ML. My vision is to build AI systems that transcend 
 
 ## 💻 Technical Stack
 
-My personal website and projects are built with modern web technologies:
+My personal website is built with modern web technologies:
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **Framework**: Remix (App Router)
 - **UI Components**: Shadcn UI, Radix UI
 - **Backend**: Node.js, Supabase
 - **Development**: Modern development practices with strong typing and performance optimization
+- **AI**: Cursor
 
 ## 📚 Recommended Reading
 
