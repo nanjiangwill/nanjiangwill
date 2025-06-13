@@ -29,7 +29,7 @@ I'm a researcher in NLP and ML. My vision is to build AI systems that transcend 
 
 ## 🎯 Recent Achievements
 
-- 🔬 2025/04: Research Intern at [to be announced]
+- 🔬 2025/05: Research Intern at Amazon SF AGI Lab
 - 🎉 2025/01: Two papers accepted at ICLR 2025:
   - [Commit0](https://arxiv.org/abs/2412.01769)
   - [GameArena](https://arxiv.org/abs/2412.06394)
