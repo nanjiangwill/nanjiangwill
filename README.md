@@ -4,14 +4,22 @@
 
 AI researcher/engineer.
 
-- I want to build AI that does not replicate the human cognition paradigm, but creates its own.
-- I want to build trustworthy systems for large-scale RL experiments.
+I want to:
+
+1. build AI that does not replicate the human cognition paradigm, but creates its own.
+2. build reliable and trustworthy systems for large-scale experiments.
 
 ## Now
 
-- [@Modal Labs](https://modal.com/): model training / infra
-- previously [@Amazon AGI](https://www.amazon.science/blog/amazon-opens-new-ai-lab-in-san-francisco-focused-on-long-term-research-bets) [SF Lab](https://labs.amazon.science/): RL post-training
-- working on large-scale RL systems
+- [@Modal Labs](https://modal.com/): Training / Infra
+- Previously [@Amazon AGI](https://labs.amazon.science/) [SF Lab](https://www.amazon.science/blog/amazon-opens-new-ai-lab-in-san-francisco-focused-on-long-term-research-bets): RL post-training
+- Working on large-scale RL systems and contributing to [slime](https://github.com/THUDM/slime)/[miles](https://github.com/radixark/miles)
+
+## Research Interests
+
+- Non-sequential decoding and reasoning
+- Stable and scalable RL
+- Better multi-modal representation
 
 ## Links
 
