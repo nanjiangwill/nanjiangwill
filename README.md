@@ -1,3 +1,5 @@
+> Note: This README is generated with AI from my personal website: [nanjiangwill.com](https://www.nanjiangwill.com/).
+
 # Nan Jiang
 
 AI researcher/engineer.
